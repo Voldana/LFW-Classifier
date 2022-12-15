@@ -1,4 +1,4 @@
-# Computational-AI
+# LFW-Classifier
 ___
 ### Description
 This is the final project for Computational AI course held in fall of 2021.
